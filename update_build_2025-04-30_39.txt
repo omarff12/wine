@@ -1,0 +1,1 @@
+Update build pipeline for session (easy) - Implemented a new feature to enhance build pipeline.
