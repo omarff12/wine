@@ -1,0 +1,1 @@
+Deploy error handling for synchronization (legacy) - Implemented a new feature to enhance error handling.
