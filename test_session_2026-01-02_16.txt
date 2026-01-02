@@ -1,0 +1,1 @@
+Test session timeout for query (legacy) - Implemented a new feature to enhance session timeout.
