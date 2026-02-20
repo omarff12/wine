@@ -1,0 +1,1 @@
+Optimize API response for security (efficient)
